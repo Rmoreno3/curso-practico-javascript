@@ -155,17 +155,3 @@ const calcularAreaCirculo = () => {
   const area = areaCirculo(radio);
   alert(area);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
